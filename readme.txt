@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-123123123abcdaaabbb
-=======
-123123123ccaaabbb
->>>>>>> master
+123123123a1b1c1daaabbb
 bbb
